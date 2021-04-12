@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2021-04-11T16:00:19+02:00</updated>
+ <updated>2021-04-12T22:00:34+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,7 @@
    <link href="https://kultursufni.hu/2021/04/12/oroszlanszivu-tuzokvedelem/"/>
    <updated>2021-04-12T00:00:00+02:00</updated>
    <id>https://kultursufni.hu/2021/04/12/oroszlanszivu-tuzokvedelem</id>
-   <content type="html">&lt;p&gt;Az adást felvettük, hétfőn 20:00-kor érkezik a &lt;a href=&quot;https://kultursufni.hu/listen/&quot;&gt;podcast appokba&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;iframe src=&quot;https://open.spotify.com/embed-podcast/episode/5uug8LJGTjDeduK0XaXnUm&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
