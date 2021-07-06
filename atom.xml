@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2021-07-05T22:49:10+02:00</updated>
+ <updated>2021-07-06T14:33:05+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,7 @@
    <link href="https://kultursufni.hu/2021/07/05/onuralom-a-vegtelen-vakacion/"/>
    <updated>2021-07-05T00:00:00+02:00</updated>
    <id>https://kultursufni.hu/2021/07/05/onuralom-a-vegtelen-vakacion</id>
-   <content type="html">&lt;p&gt;A Spotify-nál van valami gond, amikor azt elhárítják, akkor fog itt is megjelenni a lejátszó. Addig javasoljuk a többi &lt;a href=&quot;https://kultursufni.hu/listen/&quot;&gt;alkalmazást&lt;/a&gt; és klienst.&lt;/p&gt;
+   <content type="html">&lt;iframe src=&quot;https://open.spotify.com/embed/episode/63HgMorTjStRH69aKzip1N&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
