@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2021-08-12T10:11:29+02:00</updated>
+ <updated>2021-08-16T23:09:15+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,7 @@
    <link href="https://kultursufni.hu/2021/08/16/vaszja-nem-moringal/"/>
    <updated>2021-08-16T00:00:00+02:00</updated>
    <id>https://kultursufni.hu/2021/08/16/vaszja-nem-moringal</id>
-   <content type="html">&lt;p&gt;Hétfőn jövünk!&lt;/p&gt;
+   <content type="html">&lt;iframe src=&quot;https://open.spotify.com/embed/episode/4qOETNJ7pdyutIhDdDvDAV&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
