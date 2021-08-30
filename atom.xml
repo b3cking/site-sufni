@@ -4,13 +4,28 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2021-08-23T21:23:32+02:00</updated>
+ <updated>2021-08-30T10:46:12+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Apasági teszt a kánikulában</title>
+   <link href="https://kultursufni.hu/2021/08/30/apasagi-teszt-a-kanikulaban/"/>
+   <updated>2021-08-30T00:00:00+02:00</updated>
+   <id>https://kultursufni.hu/2021/08/30/apasagi-teszt-a-kanikulaban</id>
+   <content type="html">&lt;p&gt;Este jövünk! Offline rögzítettünk a Balatonon, és bár hideg volt, sokkal jobban éreztük magunkat, mint online.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/s02/offline-recording.jpg&quot; alt=&quot;Offline rögzítés&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Kánikula szó eredete, apasági teszt, párhuzamos fejlesztés morális kérdései, &lt;a href=&quot;https://hu.m.wikipedia.org/wiki/Antant%C3%A9nusz&quot;&gt;szórakaténusz&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/title/tt6264654/&quot;&gt;Free Guy&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/title/tt11732522/&quot;&gt;Így vagy tökéletes&lt;/a&gt;, autós mobiltartó, &lt;a href=&quot;https://24.hu/sport/2019/08/10/elhunyt-rosie-ruiz-maratonfutas-boston-marathon-csalas-atveres/&quot;&gt;Rosie csibészkedik&lt;/a&gt;, fizetéscsökkentés hely alapon a Google-nél, sanyarú színészlét, szerdán volt 30 éves a Linux.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Lakodalom a mamahotelben</title>
