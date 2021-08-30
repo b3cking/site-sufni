@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2021-08-30T10:49:16+02:00</updated>
+ <updated>2021-08-30T20:37:14+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,9 @@
    <link href="https://kultursufni.hu/2021/08/30/apasagi-teszt-a-kanikulaban/"/>
    <updated>2021-08-30T00:00:00+02:00</updated>
    <id>https://kultursufni.hu/2021/08/30/apasagi-teszt-a-kanikulaban</id>
-   <content type="html">&lt;p&gt;Este jövünk! Offline rögzítettünk a Balatonon, és bár hideg volt, sokkal jobban éreztük magunkat, mint online.&lt;/p&gt;
+   <content type="html">&lt;iframe src=&quot;https://open.spotify.com/embed/episode/6FOvM7WLQe56vp5uQD7wA4&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Offline rögzítettünk a Balatonon, és bár hideg volt, sokkal jobban éreztük magunkat, mint online.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/public/images/s02/offline-recording.jpg&quot; alt=&quot;Offline rögzítés&quot; /&gt;&lt;/p&gt;
 
