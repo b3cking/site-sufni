@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2022-02-28T23:43:02+01:00</updated>
+ <updated>2022-03-01T09:11:50+01:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,9 @@
    <link href="https://kultursufni.hu/2022/03/01/haboru-es-szorongas/"/>
    <updated>2022-03-01T00:00:00+01:00</updated>
    <id>https://kultursufni.hu/2022/03/01/haboru-es-szorongas</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/4Np8Y47PF3scYNHhpY6SIc?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Oroszország megtámadta Ukrajnát, ami hatalmas bizonytalanságot jelent a békéhez szokott európai ember számára, és sokakban válhat kérdésessé az a jövőkép, amit korábban elképzelt, amiért küzdött. Hogyan lehet ezt a helyzetet kezelni, miként lehet pszichésen is talpon maradni, milyen technikákkal segíthetünk magunkon és családunkon? &lt;a href=&quot;https://www.facebook.com/schellgergely/&quot;&gt;Schell Gergely&lt;/a&gt;, pszichológus, családterapeuta a vendégünk.&lt;/p&gt;
 </content>
