@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2022-05-26T21:29:14+02:00</updated>
+ <updated>2022-05-31T14:49:19+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,7 @@
    <link href="https://kultursufni.hu/2022/05/30/felhuzott-elasztikus-polo/"/>
    <updated>2022-05-30T00:00:00+02:00</updated>
    <id>https://kultursufni.hu/2022/05/30/felhuzott-elasztikus-polo</id>
-   <content type="html">&lt;p&gt;Hétfőn jövünk!&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/1wB98bMLApLA2na9Yq3giA?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
