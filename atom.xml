@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2022-08-06T20:33:02+02:00</updated>
+ <updated>2022-08-09T10:05:52+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,7 @@
    <link href="https://kultursufni.hu/2022/08/08/kiskereso-kincskodmon/"/>
    <updated>2022-08-08T00:00:00+02:00</updated>
    <id>https://kultursufni.hu/2022/08/08/kiskereso-kincskodmon</id>
-   <content type="html">&lt;p&gt;Hétfőn jövünk!&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/5RODWCTDQICDlOeGCCeVRx?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;352&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
