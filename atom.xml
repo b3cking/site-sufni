@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2022-09-23T17:51:50+02:00</updated>
+ <updated>2022-09-27T11:38:53+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,7 @@
    <link href="https://kultursufni.hu/2022/09/26/a-moncsicsi-parkoloja/"/>
    <updated>2022-09-26T00:00:00+02:00</updated>
    <id>https://kultursufni.hu/2022/09/26/a-moncsicsi-parkoloja</id>
-   <content type="html">&lt;p&gt;Hétfőn jövünk!&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/4KghflFxtqq2H9F2zI1OXQ?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
