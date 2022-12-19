@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2022-12-19T17:59:03+01:00</updated>
+ <updated>2022-12-19T18:12:52+01:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,9 @@
    <link href="https://kultursufni.hu/2022/12/19/tekintelyes-puszedli/"/>
    <updated>2022-12-19T00:00:00+01:00</updated>
    <id>https://kultursufni.hu/2022/12/19/tekintelyes-puszedli</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/7bjLxUKUZRl1hHh7TjBhey?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Mézeskalácsozás, &lt;a href=&quot;https://www.imdb.com/title/tt21822078/&quot;&gt;Tégla&lt;/a&gt;, tekintély tisztelete manapság, futárvám, borravaló, &lt;a href=&quot;https://www.imdb.com/title/tt10945328/&quot;&gt;Főzőklub&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/title/tt12847168/&quot;&gt;Nagykarácsony&lt;/a&gt;, puszi a munkahelyen, mágneses monopólus, József Attila tesói.&lt;/p&gt;
 </content>
