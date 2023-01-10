@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2023-01-10T22:27:21+01:00</updated>
+ <updated>2023-01-10T22:36:14+01:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,9 @@
    <link href="https://kultursufni.hu/2023/01/10/szimpeles-telefonon/"/>
    <updated>2023-01-10T00:00:00+01:00</updated>
    <id>https://kultursufni.hu/2023/01/10/szimpeles-telefonon</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/2jRsHcRXWYMYLLzqiAJzCR?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Az év &lt;a href=&quot;https://vehir.hu/cikk/67205-az-ev-elolenyei-2023-ban&quot;&gt;jószágai&lt;/a&gt;, telefonos &lt;a href=&quot;https://www.businessinsider.com/woman-charges-480-hour-gen-z-workers-overcome-phone-fear-2022-12&quot;&gt;oktatás&lt;/a&gt;, MVM, &lt;a href=&quot;https://www.imdb.com/title/tt12211774/&quot;&gt;Cápák között&lt;/a&gt;, &lt;a href=&quot;https://wmn.hu/kult/59173-igy-erte-el-a-legendas-pezsgogyaros-hogy-ove-legyen-a-varos-legmenobb-itala&quot;&gt;Törley&lt;/a&gt;, Randy Pausch: &lt;a href=&quot;https://moly.hu/konyvek/randy-pausch-az-utolso-tanitas&quot;&gt;Az utolsó tanítás&lt;/a&gt;, miért durran a villám, alkohol, szimpelés.&lt;/p&gt;
 </content>
