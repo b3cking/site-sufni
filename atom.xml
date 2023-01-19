@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2023-01-19T23:06:03+01:00</updated>
+ <updated>2023-01-19T23:15:38+01:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,9 @@
    <link href="https://kultursufni.hu/2023/01/19/racionalis-zombiapokalipszis/"/>
    <updated>2023-01-19T00:00:00+01:00</updated>
    <id>https://kultursufni.hu/2023/01/19/racionalis-zombiapokalipszis</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/2HF0DMC8NRUGb6lk0XAgS3?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Evolúció és bölcsességfog, 2023-as tervek, &lt;a href=&quot;https://www.techemails.com&quot;&gt;Internal Tech Emails&lt;/a&gt;, &lt;a href=&quot;https://telex.hu/szorakozas/2023/01/10/skyshowtime-streaming-hbo-max-europe-sorozat-jogok-vasarlas-besugo&quot;&gt;új streaming&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/title/tt3581920/&quot;&gt;The Last Of Us&lt;/a&gt; pilot, Kocsis Gábor: &lt;a href=&quot;https://moly.hu/konyvek/kocsis-gabor-beszelgetesek-a-kutyammal&quot;&gt;Beszélgetések a kutyámmal&lt;/a&gt;, James Norbury: &lt;a href=&quot;https://moly.hu/konyvek/james-norbury-nagy-panda-es-kicsi-sarkany&quot;&gt;Nagy Panda és Kicsi Sárkány&lt;/a&gt;, &lt;a href=&quot;https://hvg.hu/zhvg/20230118_kutyapiszoarteszt_a_Deri_Miksa_utcaban&quot;&gt;kutyapiszoár&lt;/a&gt;, fehércsoki, bikini.&lt;/p&gt;
 </content>
