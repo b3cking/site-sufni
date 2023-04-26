@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2023-04-26T23:48:04+02:00</updated>
+ <updated>2023-04-27T00:25:17+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,9 @@
    <link href="https://kultursufni.hu/2023/04/27/nyalokakiraly/"/>
    <updated>2023-04-27T00:00:00+02:00</updated>
    <id>https://kultursufni.hu/2023/04/27/nyalokakiraly</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/4PYf0KWA3j2i2AraRte6B5?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://wmn.hu/kult/59900-happy-birthday-to-you-130-eves-a-dal-ami-nem-is-szuletesnapra-irodott&quot;&gt;Happy Birthday&lt;/a&gt; 130, &lt;a href=&quot;https://www.imdb.com/title/tt23752726/&quot;&gt;A Király&lt;/a&gt;, elektromos autó tapasztalatok, &lt;a href=&quot;https://qubit.hu/2023/04/26/a-sokat-atkozott-fagylalt-taplalkozastudomanyi-elonyeire-hivja-fel-a-figyelmet-egy-amerikai-kozegeszsegugytortenesz&quot;&gt;nyalni jó&lt;/a&gt;, tojáshéj lepattanási együtthatói, falon átlátás, minimalizmus, Joshua Fields Millburn – Ryan Nicodemus: &lt;a href=&quot;https://moly.hu/konyvek/joshua-fields-millburn-ryan-nicodemus-az-embereket-szeresd-ne-a-targyakat&quot;&gt;Az embereket szeresd, ne a tárgyakat&lt;/a&gt;.&lt;/p&gt;
 </content>
