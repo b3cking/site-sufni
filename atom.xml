@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2023-06-03T16:52:58+02:00</updated>
+ <updated>2023-06-03T17:20:55+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,9 +17,12 @@
    <link href="https://kultursufni.hu/2023/06/03/tar-geczo-viztornya/"/>
    <updated>2023-06-03T00:00:00+02:00</updated>
    <id>https://kultursufni.hu/2023/06/03/tar-geczo-viztornya</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/1CuCBNUqqvca2hruQjWlDt?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Nagyvázsony, Kinizsi, &lt;a href=&quot;https://www.imdb.com/title/tt10073452/&quot;&gt;Legjobb tudomásom szerint&lt;/a&gt;, vettünk grillt, pozitív pszichológia és tréningek, fehér zaj, víztorony, Szűcs Ádám: &lt;a href=&quot;https://moly.hu/konyvek/szucs-adam-a-jatek-neve-budapest&quot;&gt;A játék neve: Budapest&lt;/a&gt;, Bob Dylan: &lt;a href=&quot;https://moly.hu/konyvek/bob-dylan-lyrics-dalok&quot;&gt;Lyrics – Dalok&lt;/a&gt;, deinfluenszerkedés, Boston maratonon kerti kaksi. Egyébként pedig nem kell mindent véleményezni.&lt;/p&gt;
+
 </content>
  </entry>
  
