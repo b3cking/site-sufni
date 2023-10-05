@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2023-10-05T23:07:06+02:00</updated>
+ <updated>2023-10-05T23:31:18+02:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,9 @@
    <link href="https://kultursufni.hu/2023/10/05/ment-mint-a-karikocsapas/"/>
    <updated>2023-10-05T00:00:00+02:00</updated>
    <id>https://kultursufni.hu/2023/10/05/ment-mint-a-karikocsapas</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/2mkJJMwFiHNe01IKrOhhle?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://podcastpioneers.hu&quot;&gt;Podcast Pioneers&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/title/tt16968450/&quot;&gt;Henry Sugar csodálatos története&lt;/a&gt;, VAR, &lt;a href=&quot;https://imdb.com/title/tt13622776/&quot;&gt;Ahsoka&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/title/tt7767422/&quot;&gt;Szexoktatás&lt;/a&gt;, paradoxonok (&lt;a href=&quot;https://moly.hu/konyvek/gareth-southwell-paradoxonok&quot;&gt;könyv&lt;/a&gt;), mi ért idén Nobel-díjat, kórházi szituáció, Szabó Magda: &lt;a href=&quot;https://moly.hu/konyvek/szabo-magda-mondjak-meg-zsofikanak&quot;&gt;Mondják meg Zsófikának&lt;/a&gt;, Agatha Christie: &lt;a href=&quot;https://moly.hu/konyvek/agatha-christie-gyilkossag-a-paplakban&quot;&gt;Gyilkosság a paplakban&lt;/a&gt;.&lt;/p&gt;
 </content>
