@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2023-12-03T23:32:40+01:00</updated>
+ <updated>2023-12-03T23:56:05+01:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,9 @@
    <link href="https://kultursufni.hu/2023/12/03/befejezetlen-szimfonia/"/>
    <updated>2023-12-03T00:00:00+01:00</updated>
    <id>https://kultursufni.hu/2023/12/03/befejezetlen-szimfonia</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/4KYmwnck1sYK4IP1Kxo3fp?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Más kosara a Lidlben, Geszti-Monori-Tasnádi: &lt;a href=&quot;https://pestimagyarszinhaz.hu/ezeregy-ejszaka/&quot;&gt;Ezeregy éjszaka&lt;/a&gt;, &lt;a href=&quot;https://www.kecskemetinemzeti.hu/hu/eloadasok/aktualis.html?eloadas_id=14225&quot;&gt;A tehetséges Mr. Ripley&lt;/a&gt;, rántott hús klopfolása, kréta vagy köhögés, Federico Axat: &lt;a href=&quot;https://moly.hu/konyvek/federico-axat-old-meg-ot-is&quot;&gt;Öld meg őt is&lt;/a&gt;, &lt;a href=&quot;https://qubit.hu/2023/11/15/szemetesnek-hasznaltak-egy-2600-eves-edenyt-egy-irani-muzeumban&quot;&gt;2600 éves kuka&lt;/a&gt;.&lt;/p&gt;
 </content>
