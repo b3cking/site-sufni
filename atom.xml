@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2024-01-04T18:12:54+01:00</updated>
+ <updated>2024-01-04T19:25:57+01:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,9 @@
    <link href="https://kultursufni.hu/2024/01/04/matyas-kiraly-ponin-vereti/"/>
    <updated>2024-01-04T00:00:00+01:00</updated>
    <id>https://kultursufni.hu/2024/01/04/matyas-kiraly-ponin-vereti</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/2ddqy5CJ92wXfENduasFeW?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;352&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Kooperatív társasjátékok, év állatai (&lt;a href=&quot;https://index.hu/tudomany/2024/01/03/kerecsen-solyom-ev-madara-2024/&quot;&gt;madár&lt;/a&gt;, &lt;a href=&quot;https://haltanitarsasag.hu/fish-of-the-year&quot;&gt;hal&lt;/a&gt;, &lt;a href=&quot;https://greendex.hu/kek-bolygo-uj-csatornak-es-viztarozok/&quot;&gt;Kék Bolygó&lt;/a&gt;), elfújhatatlan gyertya, Eon-szaldó, &lt;a href=&quot;https://qubit.hu/2023/12/31/videoajanlo-ki-volt-az-a-polconszaro-gyorgy&quot;&gt;Polconszaró György&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/title/tt9140554/&quot;&gt;Loki&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/title/tt1826940/&quot;&gt;Új csaj&lt;/a&gt;, &lt;a href=&quot;https://telex.hu/zacc/2024/01/01/kordaek-orokbe-fogadtak-a-debreceni-allatkert-ket-vizilovat&quot;&gt;állatkerti örökbefogadás&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/title/tt22687790/&quot;&gt;Szeánsz Velencében&lt;/a&gt;, Peter Hitler, &lt;a href=&quot;https://www.imdb.com/title/tt7477310/&quot;&gt;Mit szólnátok Adolfhoz?&lt;/a&gt;&lt;/p&gt;
 </content>
