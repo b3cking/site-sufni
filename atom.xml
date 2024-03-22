@@ -4,7 +4,7 @@
  <title>kultúr sufni</title>
  <link href="https://kultursufni.hu/atom.xml" rel="self"/>
  <link href="https://kultursufni.hu/"/>
- <updated>2024-03-22T13:39:41+01:00</updated>
+ <updated>2024-03-22T13:52:59+01:00</updated>
  <id>https://kultursufni.hu</id>
  <author>
    <name>Istvan Kis</name>
@@ -17,7 +17,9 @@
    <link href="https://kultursufni.hu/2024/03/22/togyszoros-tejmagnes/"/>
    <updated>2024-03-22T00:00:00+01:00</updated>
    <id>https://kultursufni.hu/2024/03/22/togyszoros-tejmagnes</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
+   <content type="html">&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/0D7Skuwgphz1w3qdJq3ltS?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Témák&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Kafkáz földlakó, &lt;a href=&quot;https://www.imdb.com/title/tt6166392/&quot;&gt;Wonka&lt;/a&gt;, #keresettaferi, csajozós mesterséges intelligencia, tejforralás, cica-kutya mérési hiba, Frei Tamás: &lt;a href=&quot;https://moly.hu/konyvek/frei-tamas-puccs-moszkvaban&quot;&gt;Puccs Moszkvában&lt;/a&gt;, biztosítós bukovári.&lt;/p&gt;
 </content>
